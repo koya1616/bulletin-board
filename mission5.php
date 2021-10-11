@@ -136,7 +136,7 @@
         echo $row['id'].',';
         echo $row['name'].',';
         echo $row['comment'].',';
-		echo $row['date'].'<br>';
+	echo $row['date'].'<br>';
         echo "<hr>";
     }
 ?>
